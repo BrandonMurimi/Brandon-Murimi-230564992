@@ -1,10 +1,8 @@
 # Brandon-Murimi-230564992
-Hi there welcome to the world of coding
+Hi there welcome to the world of coding.
 **This project is going to display "Hello World"**
-** I have used HTMl and CSS **
-1)how to create a repository 
-2)to make changes and alert to the team 
-3)to show how to add  README.md file in your repository.
-4) its going to show URL GitHub repositorylink as part of assignment submission.
-I have used Python as added extension 
-The below picture shows the running program
+** I have used HTMl and with javascript functionality **
+There's a button (<button>) with an onclick event that triggers the JavaScript function displayGreeting() when clicked.
+What happens when you run this:
+When the page loads, you'll see a heading, a description, and a button.
+When you click the button, the JavaScript function will change the text below the button to display "Hello, World! You clicked the button."
