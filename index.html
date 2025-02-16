@@ -5,12 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hello World with JavaScript</title>
     <script>
+        // JavaScript function to display a greeting message
         function displayGreeting() {
-            alert("Hello, World! Welcome to my JavaScript page.");
+            // Display the message in the webpage
             document.getElementById("greetingMessage").innerHTML = "Hello, World! You clicked the button.";
-<!-- Button that triggers the JavaScript function -->
+        }
+    </script>
+</head>
+<body>
+    <h1>Welcome to the Hello World Page</h1>
+    <p>This is a simple HTML page with JavaScript functionality.</p>
+
+    <!-- Button that triggers the JavaScript function -->
     <button onclick="displayGreeting()">Click me for a greeting</button>
+
     <!-- Area where the greeting message will be displayed -->
-    <p id="greetingMessage"></p>
+    <p id="greetingMessage"></p> <!-- This paragraph will display the JavaScript result -->
 </body>
 </html>
