@@ -8,5 +8,3 @@ Hi there welcome to the world of coding
 4) its going to show URL GitHub repositorylink as part of assignment submission.
 I have used Python as added extension 
 The below picture shows the running program
-![Screenshot 2025-02-13 23372
-08](https://github.com/user-attachments/assets/6a188a3c-3ae8-4977-a650-f5118db43ddb)
